@@ -1,6 +1,6 @@
 # vagrant-mysql
 
-## Atividade 1 - Infrastructure and Cloud Computing 
+## Atividade 1 - Infrastructure and Cloud Computing!
 
 ## Subir uma máquina virtual usando Vagrant com MySQL e que esteja acessível no host da máquina na porta 3306.
 
